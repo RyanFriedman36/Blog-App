@@ -1,4 +1,4 @@
-# django-web-app
+# Blof App
 
 This is a simple blog-style django web-app that supports user creation, user authentication, admin page/functionality and blog posting
 
