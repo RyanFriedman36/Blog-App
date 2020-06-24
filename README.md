@@ -1,3 +1,7 @@
 # django-web-app
 
-This is a simple blog-style django web-app that I created in an attempt to better understand web-app frameworks in general.
+This is a simple blog-style django web-app that supports user creation, user authentication, admin page/functionality and blog posting
+
+# Inspiration
+
+I wrote this app to learn more about web app frameworks within Python
